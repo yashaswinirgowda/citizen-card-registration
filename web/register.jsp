@@ -19,6 +19,7 @@
                 border-radius: 5px;
                 background: #fff;
             }
+            /* application nav */
             #app-nav{
                 height: 70px;
                 margin:0 -15px 50px;
